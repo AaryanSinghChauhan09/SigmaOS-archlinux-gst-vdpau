@@ -7,5 +7,5 @@ description = "SigmaOS archlinux-gst-vdpau component (Arch Linux inspired)"
 license = "MIT OR Apache-2.0"
 
 [lib]
-name = "sigmaos_archlinux-gst-vdpau"
+name = "sigmaos_archlinux_gst_vdpau"
 path = "src/lib.rs"
